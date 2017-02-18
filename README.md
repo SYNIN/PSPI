@@ -6,6 +6,6 @@ __Hm... zobaczymy co się z tym da zrobić :)__
 
 To do:
 
-1. Założyć konto na GitHub
-2. Zapoznać się z SSH (Secure Shell)
-3. 
+1. [x] Założyć konto na GitHub
+2. [ ] Zapoznać się z SSH (Secure Shell)
+3. [ ]

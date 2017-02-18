@@ -1,5 +1,7 @@
 __Hm... zobaczymy co się z tym da zrobić :)__
 
-Ok to ja:
+# Techniki informacyjne
 
-12814397_10208106816060205_8435163995968581277_n[1].jpg
+T0D0:
+
+-[]założyć konto na GitHub

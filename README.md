@@ -2,6 +2,6 @@ __Hm... zobaczymy co się z tym da zrobić :)__
 
 # Techniki informacyjne
 
-T0D0:
+To do:
 
--[]założyć konto na GitHub
+-[ ]założyć konto na GitHub

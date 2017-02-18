@@ -8,4 +8,3 @@ To do:
 
 1. [x] Założyć konto na GitHub
 2. [ ] Zapoznać się z SSH (Secure Shell)
-3. [ ]

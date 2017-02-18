@@ -4,4 +4,6 @@ __Hm... zobaczymy co się z tym da zrobić :)__
 
 To do:
 
--[ ]założyć konto na GitHub
+1. Założyć konto na GitHub
+2. Zapoznać się z SSH (Secure Shell)
+3. 

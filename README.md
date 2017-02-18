@@ -6,7 +6,7 @@ __Hm... zobaczymy co się z tym da zrobić :)__
 
 ![Rakiety](tos[1].gif)
 
-[![DOOM](DOOM.png)](https://www.youtube.com/watch?v=dyk3FV56cW4)
+[![DOOM](Doom.png)](https://www.youtube.com/watch?v=dyk3FV56cW4)
 
 # Techniki informacyjne
 

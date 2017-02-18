@@ -6,6 +6,8 @@ __Hm... zobaczymy co się z tym da zrobić :)__
 
 ![Rakiety](tos[1].gif)
 
+[![DOOM](DOOM.png)](https://youtube.be/dyk3FV56cW4)
+
 # Techniki informacyjne
 
 To do:

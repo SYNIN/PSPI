@@ -2,7 +2,7 @@
 
 ![komputer](komputer1.jpg)
 
- *Komputer* jest to maszyna elektroniczna przeznaczona do przetwarzania informacji, oraz posiadające zdolność wykonywania wielokrotnie, automatycznie powtarzanych obliczeń, według algorytmicznego wzorca zwanego programem.
+**Komputer** *jest to maszyna elektroniczna przeznaczona do przetwarzania informacji, oraz posiadające zdolność wykonywania wielokrotnie, automatycznie powtarzanych obliczeń, według algorytmicznego wzorca zwanego programem.*
 
 **_Programowalność_**
 
@@ -36,4 +36,6 @@ Wyróżniamy następujące rodzaje komputerów:
 To do:
 
 1. [x] Założyć konto na GitHub
-2. [ ] Zapoznać się z SSH (Secure Shell)
+2. [x] Zapoznać się z SSH (Secure Shell)
+3. [x] Przygotować plik readme
+4. [ ] Przygotować stronę internetową

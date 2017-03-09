@@ -1,4 +1,4 @@
-__KOMPUTER__
+# KOMPUTER
 
 ![komputer](komputer1.jpg)
 

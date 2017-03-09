@@ -37,7 +37,7 @@ Wyróżniamy następujące rodzaje komputerów:
 
 | Model      | Opis           | Zdjęcie  |
 | ------------- |:-------------:| -----:|
-| Gateway 2000 Destination (1996)| Model Destination był stosunkowo drogi (kosztował od 3,5 do 4,7 tys USD) - ale za to bogato wyposażony. Kupując go użytkownik dostawał komputer przypominający element zestawu domowej rozrywki (w skrócie rzecz ujmując, Destination wyglądał jak dwa magnetowidy postawione jeden na drugim), 31-calowy monitor CRT, zestaw głośników surround oraz bezprzewodowego pilota i klawiaturę. |(Gateway2000.jpg)|
+| Gateway 2000 Destination (1996)| Model Destination był stosunkowo drogi (kosztował od 3,5 do 4,7 tys USD) - ale za to bogato wyposażony. Kupując go użytkownik dostawał komputer przypominający element zestawu domowej rozrywki (w skrócie rzecz ujmując, Destination wyglądał jak dwa magnetowidy postawione jeden na drugim), 31-calowy monitor CRT, zestaw głośników surround oraz bezprzewodowego pilota i klawiaturę. |![](Gateway2000.jpg)|
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 

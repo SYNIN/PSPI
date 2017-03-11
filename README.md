@@ -1,6 +1,6 @@
 # KOMPUTER
 
-![komputer](pics\komputer1.jpg)
+![komputer](PSPI-2017/pics/komputer1.jpg)
 
 **Komputer** *jest to maszyna elektroniczna przeznaczona do przetwarzania informacji, oraz posiadające zdolność wykonywania wielokrotnie, automatycznie powtarzanych obliczeń, według algorytmicznego wzorca zwanego programem.*
 

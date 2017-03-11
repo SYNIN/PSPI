@@ -1,4 +1,4 @@
-# KOMPUTER
+# KOMPUTER :smile:
 
 ![komputer](pics/komputer1.jpg)
 
@@ -33,7 +33,7 @@ Wyróżniamy następujące rodzaje komputerów:
 - superkomputery – komputery o dużej mocy obliczeniowej, używane do czasochłonnych obliczeń naukowych i symulacji skomplikowanych systemów.
 - komputery wbudowane – specjalizowane komputery służące do sterowania urządzeniami z gatunku automatyki przemysłowej, elektroniki użytkowej czy wręcz poszczególnymi komponentami wchodzącymi w skład komputerów.
 
-### Subiektywna lista najważniejszych komputerów osobistych w historii:
+### :computer: Subiektywna lista najważniejszych komputerów osobistych w historii:
 
 | Model      | Opis           | Zdjęcie  |
 | ------------- |:-------------:| -----:|
@@ -48,7 +48,7 @@ Wyróżniamy następujące rodzaje komputerów:
 |Apple iMac, druga generacja (2002)| Komputer był wygodny w użyciu, wydajny, nie zajmował wiele miejsca na biurku (pamiętajmy - to był rok 2002, typowy pecet był beżowym sześcianem), a ruchome ramię pozwalało na dowolne ustawienie wyświetlacza.|![](pics/iMac.jpg)|
 
 
-To do:
+To do: :goberserk:
 
 1. [x] Założyć konto na GitHub
 2. [x] Zapoznać się z SSH (Secure Shell)

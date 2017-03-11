@@ -33,7 +33,7 @@ Wyróżniamy następujące rodzaje komputerów:
 - superkomputery – komputery o dużej mocy obliczeniowej, używane do czasochłonnych obliczeń naukowych i symulacji skomplikowanych systemów.
 - komputery wbudowane – specjalizowane komputery służące do sterowania urządzeniami z gatunku automatyki przemysłowej, elektroniki użytkowej czy wręcz poszczególnymi komponentami wchodzącymi w skład komputerów.
 
-### Lista najważniejszych komputerów osobistych w historii:
+### Subiektywna lista najważniejszych komputerów osobistych w historii:
 
 | Model      | Opis           | Zdjęcie  |
 | ------------- |:-------------:| -----:|

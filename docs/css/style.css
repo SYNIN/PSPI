@@ -50,7 +50,7 @@ text-decoration: none;
 }
 
 .thumbnail span img{ /*CSS for enlarged image*/
-border-width: 0;
+border-width: 100%;
 padding: 2px;
 }
 

@@ -8,10 +8,10 @@ body {font-family:Arial, Helvetica, Sans-serif;font-size:14px;line-height:1.5;fo
 header {margin:25px 0;}
 header img {width:100%;}
  
-aside {float:left;width:30%;margin:0 0 25px;}
+aside {float:left;width:15%;margin:0 0 25px;}
 aside nav ul {list-style:none;}
 aside nav ul li {margin-bottom:1px;}
-aside nav ul li a {display:block;text-decoration:none;color:#000;background:#FFC000;padding:8px 20px;}
+aside nav ul li a {display:block;text-decoration:bold;color:#000;background:#993399;padding:8px 20px;}
 aside nav ul li a:hover{background:#212121;color:#FFF;}
  
 #main {float:right;width:65%;margin:0 0 25px;}

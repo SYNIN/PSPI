@@ -11,7 +11,7 @@ header img {width:50%; height:50%}
 aside {float:left;width:30%;margin:0 0 25px;}
 aside nav ul {list-style:none;}
 aside nav ul li {margin-bottom:1px;}
-aside nav ul li a {display:block;text-decoration:none;color:#ffffff;background:#ff0000;padding:8px 20px;white-space: pre-line;}
+aside nav ul li a {display:block;text-decoration:none;color:#ffffff;background:#ff0000;padding:8px 20px;overflow:hidden;}
 aside nav ul li a:hover{background:#9900cc;color:#ffffff;}
  
 #main {float:right;width:65%;margin:0 0 25px;}

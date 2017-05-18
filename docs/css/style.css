@@ -18,47 +18,51 @@ aside nav ul li a:hover{background:#9900cc;color:#ffffff;}
  
 footer {clear:both;color:#FFF;background:#121212;padding:15px 0 15px 30px;}
 
-<style type="text/css">
-
-.gallerycontainer{
-position: relative;
-/*Add a height attribute and set to largest image's height to prevent overlaying*/
+<style>
+div.gallery {
+    border: 1px solid #ccc;
 }
 
-.thumbnail img{
-border: 1px solid white;
-margin: 0 5px 5px 0;
+div.gallery:hover {
+    border: 1px solid #777;
 }
 
-.thumbnail:hover{
-background-color: transparent;
+div.gallery img {
+    width: 100%;
+    height: auto;
 }
 
-.thumbnail:hover img{
-border: 1px solid blue;
+div.desc {
+    padding: 15px;
+    text-align: center;
 }
 
-.thumbnail span{ /*CSS for enlarged image*/
-position: absolute;
-background-color: black;
-padding: 5px;
-left: -1000px;
-border: 1px dashed gray;
-visibility: hidden;
-color: white;
-text-decoration: none;
+* {
+    box-sizing: border-box;
 }
 
-.thumbnail span img{ /*CSS for enlarged image*/
-border-width: 100%;
-padding: 2px;
+.responsive {
+    padding: 0 6px;
+    float: left;
+    width: 24.99999%;
 }
 
-.thumbnail:hover span{ /*CSS for enlarged image*/
-visibility: visible;
-top: 10%;
-left: 10%; /*position where enlarged image should offset horizontally */
-z-index: 50;
+@media only screen and (max-width: 700px){
+    .responsive {
+        width: 49.99999%;
+        margin: 6px 0;
+    }
 }
 
+@media only screen and (max-width: 500px){
+    .responsive {
+        width: 100%;
+    }
+}
+
+.clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+}
 </style>

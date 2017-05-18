@@ -1,5 +1,6 @@
 html {width:100%;height:100%;}
-body {font-family:Arial, Helvetica, Sans-serif;font-size:14px;line-height:1.5;font-weight:400;color:#bfbfbf;background:url("../pics/TFG1Wallpaper.jpg");
+body {font-family:Arial, Helvetica, Sans-serif;font-size:14px;line-height:1.5;font-weight:400;
+    color:#bfbfbf;background:url("../pics/TFG1Wallpaper.jpg");opacity: 0.5;
     background-repeat: repeat-x;}
     
 .container {width:1050px;margin:0 auto;}

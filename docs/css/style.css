@@ -1,21 +1,3 @@
-Skip to content
-This repository
-Search
-Pull requests
-Issues
-Gist
- @SYNIN
- Sign out
- Watch 1
-  Star 0
-  Fork 0 Mariusz19x/strona-biegowa
- Code  Issues 0  Pull requests 0  Projects 0  Wiki  Pulse  Graphs
-Branch: master Find file Copy pathstrona-biegowa/docs/style.css
-01d8c40  19 hours ago
-@Mariusz19x Mariusz19x Update style.css
-2 contributors @Mariusz19x @wbzyl
-RawBlameHistory     
-109 lines (83 sloc)  2.78 KB
 * {padding:0;margin:0;}
 
 body { background:  url("pics/TFG1Wallpaper.jpg") no-repeat fixed center; overflow: auto; background-color: rgba(215, 40, 40, 0.9);  background-size: 100% 100%; 

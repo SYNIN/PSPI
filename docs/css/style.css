@@ -8,12 +8,12 @@ body {font-family:Arial, Helvetica, Sans-serif;font-size:14px;line-height:1.5;fo
 header {width:100%;  height: 10%; text-align: center;overflow:hidden;}
 header img {width:100%;}
  
-aside {float:left;width:15%;margin:0 0 25px;}
+aside {float:left;width:15%;margin:25px 0;}
 aside nav ul {list-style:none;}
 aside nav ul li {margin-bottom:1px;}
 aside nav ul li a {display:block;text-decoration:none;color:#ffffff;background:#ff0000;padding:8px 20px;}
 aside nav ul li a:hover{background:#9900cc;color:#ffffff;}
  
-#main {float:right;width:85%;margin:0 0 25px;}
+#main {float:right;width:85%;margin:25px 0;}
  
 footer {clear:both;color:#FFF;background:#121212;padding:15px 0 15px 30px;}

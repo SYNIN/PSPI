@@ -40,7 +40,7 @@ border: 1px solid blue;
 
 .thumbnail span{ /*CSS for enlarged image*/
 position: absolute;
-background-color: lightyellow;
+background-color: black;
 padding: 5px;
 left: -1000px;
 border: 1px dashed gray;
@@ -56,8 +56,8 @@ padding: 2px;
 
 .thumbnail:hover span{ /*CSS for enlarged image*/
 visibility: visible;
-top: 0;
-left: 230px; /*position where enlarged image should offset horizontally */
+top: 50%;
+left: 50%; /*position where enlarged image should offset horizontally */
 z-index: 50;
 }
 

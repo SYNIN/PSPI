@@ -76,7 +76,7 @@ div.gallery {
 }
 
 div.gallery:hover {
-    border: 1px solid #777;
+    background-color:#999999;
 }
 
 div.gallery img {

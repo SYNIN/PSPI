@@ -72,7 +72,6 @@ footer {clear:both;color:#FFF;background:#121212;padding:15px 0 15px 30px;}
 <style>
 div.gallery {
     border: 1px solid #ccc;
-    margin-top: 5px;   
 }
 
 div.gallery:hover {
@@ -97,7 +96,7 @@ div.desc {
     padding: 0 6px;
     float: left;
     width: 24.99999%;
-    margin:0 6px 6px 0;
+    margin:6px 6px 6px 0;
 }
 
 @media only screen and (max-width: 700px){

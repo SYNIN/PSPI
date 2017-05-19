@@ -66,16 +66,10 @@ div.content {
     }
 }
  
-footer {
-  position: absolute;
-  right: 0;
-  bottom: 0;
-  left: -25%;
-  padding: 1rem;
-  background-color: #000000;
-  text-align: left;
-  color:#ffffff
+footer {clear:both;color:#FFF;background:#121212;padding:15px 0 15px 30px;}
+
 }
+
 
 <style>
 div.gallery {

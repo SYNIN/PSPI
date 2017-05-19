@@ -66,7 +66,7 @@ div.content {
     }
 }
  
-footer {clear:both;color:#FFF;background:#121212;padding:15px 0 15px 30px;margin-top:5%;}
+footer {float:bottom;clear:both;color:#FFF;background:#121212;padding:15px 0 15px 30px;margin-top:5%;}
 
 <style>
 div.gallery {

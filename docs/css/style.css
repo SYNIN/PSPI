@@ -71,7 +71,10 @@ footer {clear:both;color:#FFF;background:#121212;padding:15px 0 15px 30px;}
 
 <style>
 div.gallery {
+    margin: 5px;
     border: 1px solid #ccc;
+    float: left;
+    width: 24.99999%;
 }
 
 div.gallery:hover {

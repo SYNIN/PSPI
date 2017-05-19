@@ -7,16 +7,66 @@ body {font-family:Arial, Helvetica, Sans-serif;font-size:14px;line-height:1.5;fo
  
 header {width:100%;  height: 10%; text-align: center;overflow:hidden;}
 header img {width:50%; height:50%}
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+body {margin: 0;}
+
+ul.sidenav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 25%;
+    background-color: #ff0000;
+    position: fixed;
+    height: 100%;
+    overflow: auto;
+}
+
+ul.sidenav li a {
+    display: block;
+    color: #ffffff;
+    padding: 8px 16px;
+    text-decoration: none;
+}
  
-aside {float:left;width:30%;margin:0 0 0 0px;}
-aside nav ul {list-style:none;}
-aside nav ul li {margin-bottom:1px;}
-aside nav ul li a {display:block;text-decoration:none;color:#ffffff;background:#ff0000;padding:8px 20px;}
-aside nav ul li a:hover{background:#9900cc;color:#ffffff;}
+ul.sidenav li a.active {
+    background-color: #ffcc00;
+    color: white;
+}
+
+ul.sidenav li a:hover:not(.active) {
+    background-color: #9900cc;
+    color: white;
+}
+
+div.content {
+    margin-left: 25%;
+    padding: 1px 16px;
+    height: 1000px;
+}
+
+@media screen and (max-width: 900px) {
+    ul.sidenav {
+        width: 100%;
+        height: auto;
+        position: relative;
+    }
+    ul.sidenav li a {
+        float: left;
+        padding: 15px;
+    }
+    div.content {margin-left: 0;}
+}
+
+@media screen and (max-width: 400px) {
+    ul.sidenav li a {
+        text-align: center;
+        float: none;
+    }
+}
  
-#main {float:right;width:65%;margin:0 0 0 25px;}
- 
-footer {clear:both;color:#FFF;background:#121212;padding:15px 0 15px 0px;}
+footer {clear:both;color:#FFF;background:#121212;padding:15px 0 15px 30px;}
 
 <style>
 div.gallery {

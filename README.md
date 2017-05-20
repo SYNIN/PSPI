@@ -26,7 +26,7 @@ Komputery stały się obecnie tak powszechne, iż według słów [Normana Ralpha
 
 Wyróżniamy następujące rodzaje komputerów:
 
-&mdash komputery osobiste – pierwotnie nazwane tak z powodu rozmiarów umożliwiających ich umieszczenie na biurku
+-- komputery osobiste – pierwotnie nazwane tak z powodu rozmiarów umożliwiających ich umieszczenie na biurku
 - komputery domowe – poprzedniki komputerów osobistych, korzystające z telewizora, jako monitora.
 - konsola do gier – komputer wyspecjalizowany w programach rozrywkowych. Zazwyczaj korzysta z telewizora jako głównego wyświetlacza. Posiada ograniczone oprogramowanie przygotowane do wydajnego uruchamiania programów i gier.
 - komputery mainframe – często o większych rozmiarach, których zastosowaniem jest przetwarzanie dużych ilości danych na potrzeby różnego rodzaju instytucji, pełnienie roli serwerów itp.

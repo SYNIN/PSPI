@@ -19,7 +19,7 @@ ul.sidenav {
     width: 25%;
     background-color: #ff0000;
     position: fixed;
-    height: 50%;
+    height: auto;
     overflow: auto;
 }
 

@@ -30,7 +30,7 @@ ul.sidenav li a {
     text-decoration: none;
 }
  
-ul.sidenav li a.active {
+ul.sidenav li a:active {
     background-color: #ffcc00;
     color: white;
 }
